@@ -16,6 +16,12 @@ main {
     margin-bottom: 100px;
 }
 
+.masthead {
+    background-image: url('Images/Mac (2).jpg');
+    height: 200px;
+    border-radius: 20px;
+}
+
 .details {
     display: flex;
     gap: 25px;
@@ -33,8 +39,6 @@ main {
 
 img {
     width: 100%;
-    border-radius: 20px;
-    
 }
 
 h2 {
