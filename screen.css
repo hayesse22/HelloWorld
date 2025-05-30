@@ -24,10 +24,18 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #e6e6e6;
-    
+    padding: 22px;
 }
 
 img {
     width: 100%;
     
+}
+
+h2 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
 }
