@@ -13,6 +13,7 @@ body {
 main {
     margin: 0 auto;
     width: 800px;
+    margin-bottom: 100px;
 }
 
 .details {
@@ -23,7 +24,7 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #e6e6e6;
-    margin-bottom: 100px;
+    
 }
 
 img {
