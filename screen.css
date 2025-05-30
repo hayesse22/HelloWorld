@@ -18,6 +18,8 @@ main {
 
 .details {
     display: flex;
+    gap: 25px;
+    
 }
 
 .details section {
@@ -39,3 +41,4 @@ h2 {
 p {
     margin: 0;
 }
+
