@@ -19,7 +19,7 @@ main {
 .details {
     display: flex;
     gap: 25px;
-    
+
 }
 
 .details section {
@@ -27,6 +27,8 @@ main {
     flex-basis: 0;
     background: #e6e6e6;
     padding: 22px;
+    border-radius: 20px;
+
 }
 
 img {
@@ -35,7 +37,7 @@ img {
 }
 
 h2 {
-    margin: 0;
+    margin: 0 0 11px 0;
 }
 
 p {
