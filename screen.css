@@ -18,6 +18,8 @@ main {
 
 .masthead {
     background-image: url('Images/Mac (2).jpg');
+    background-position: bottom;
+    background-size: cover;
     height: 200px;
     border-radius: 20px;
 }
