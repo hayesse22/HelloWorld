@@ -38,6 +38,14 @@ main {
     margin-top: 25px;
 }
 
+.details section p {
+    margin: 20px;
+}
+
+.details section h2 {
+    margin: 20px;
+}
+
 .details section.with-code {
     padding: 0;
 }
@@ -51,7 +59,8 @@ div.code-html {
     padding: 25px;
     background: #424242;
     color: #fff;
-
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 img {
