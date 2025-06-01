@@ -27,13 +27,12 @@ main {
 .details {
     display: flex;
     gap: 25px;
-
 }
 
 .details section {
     flex-grow: 1;
     flex-basis: 0;
-    background: #e6e6e6;
+    background: #e9eaec;
     border-radius: 20px;
     margin-top: 25px;
 }
