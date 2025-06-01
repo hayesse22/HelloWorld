@@ -39,6 +39,15 @@ main {
     margin-top: 25px;
 }
 
+.details section.with-code {
+    padding: 0;
+}
+
+div.code-copy {
+    padding: 25px;
+    
+}
+
 img {
     width: 100%;
 }
@@ -55,6 +64,7 @@ h1 {
 
 h2 {
     margin: 0 0 11px 0;
+
 }
 
 p {
