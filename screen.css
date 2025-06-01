@@ -34,7 +34,6 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #e6e6e6;
-    padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
 }
@@ -45,7 +44,14 @@ main {
 
 div.code-copy {
     padding: 25px;
-    
+
+}
+
+div.code-html {
+    padding: 25px;
+    background: #424242;
+    color: #fff;
+
 }
 
 img {
